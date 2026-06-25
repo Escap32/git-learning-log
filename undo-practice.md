@@ -18,8 +18,6 @@ This file documents the Git undo and recovery tools I've learned.
 - The original commit stays in the log, plus a new "undo" commit is added
 
 
-- WRONG: always rebase shared branches to keep history clean
-
 
 ## Reflog
 
